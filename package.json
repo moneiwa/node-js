@@ -1,0 +1,21 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "learn node",
+  "main": "server.js",
+  "scripts": {
+    "test": "error: no text",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Muneiwa",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  }
+}
